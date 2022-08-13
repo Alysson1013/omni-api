@@ -9,7 +9,7 @@
 
 ---
 ## Diagrama de banco de dados
-![Diagrama entidade relacionamento](relative/path/to/img.jpg?raw=true "Title")
+![Diagrama entidade relacionamento](relative/path/to/img.jpg?raw=true)
 ---
 
 ## ☕ Seja um dos contribuidores
