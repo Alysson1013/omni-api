@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>OMNI API
+📄 OMNI API
 </h1>
 
 ## Sobre o projeto
@@ -9,7 +9,7 @@
 
 ---
 ## Diagrama de banco de dados
-![Diagrama entidade relacionamento](relative/path/to/img.jpg?raw=true)
+![](DER.png)
 ---
 
 ## ☕ Seja um dos contribuidores
