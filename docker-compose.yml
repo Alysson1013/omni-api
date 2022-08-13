@@ -1,0 +1,15 @@
+version: '3.0'
+
+services:
+  db:
+    image: postgres
+    container_name: database_omni
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=omni
+    volumes:
+      - ./docker/db:/data/postgres
